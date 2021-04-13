@@ -1,0 +1,8 @@
+{
+  "packageName": "net.cloudopt.next.grpc.example",
+  "cookieCors": true,
+  "grpc": {
+    "port": 9090,
+    "ssl": false
+  }
+}
